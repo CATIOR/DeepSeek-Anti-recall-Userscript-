@@ -1,9 +1,11 @@
 # 🧠 DeepSeek Anti-recall
 
-[![Version](https://img.shields.io/badge/version-2026.04.25-orange.svg)]((https://greasyfork.org/ru/scripts/575367-deepseek-anti-recall)
+[![Version](https://img.shields.io/badge/version-2026.04.25-orange.svg)](https://greasyfork.org/ru/scripts/575367-deepseek-anti-recall)
 [![Platform](https://img.shields.io/badge/platform-Tampermonkey-black.svg)](https://www.tampermonkey.net/)
 [![Tested On](https://img.shields.io/badge/tested--on-Chrome-blue.svg)](https://www.google.com/chrome/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+<img width="939" height="549" alt="blocked" src="https://github.com/user-attachments/assets/f08495c5-e7e8-4e51-b419-7c328628983b" />
 
 > [!TIP]
 > **Russian description is available below.** > [Прокрутить к описанию на русском языке](#-deepseek-anti-recall-защита-от-цензуры-и-сохранение-контекста)
@@ -61,7 +63,8 @@ When DeepSeek generates a response that fails internal safety filters (`CONTENT_
 * **I18n:** Automatically switches between English and Russian based on browser settings.
 
 ---
----
+
+# На русском
 
 ## 🧠 DeepSeek Anti-recall (Защита от цензуры и сохранение контекста)
 
@@ -89,5 +92,6 @@ When DeepSeek generates a response that fails internal safety filters (`CONTENT_
 
 ---
 
-**Author:** [CATLYS]  
+**Author:** Claude Opus & CATLYS
+
 **License:** MIT
