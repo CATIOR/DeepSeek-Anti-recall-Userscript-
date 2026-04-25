@@ -62,6 +62,15 @@ When DeepSeek generates a response that fails internal safety filters (`CONTENT_
 * **Compatibility:** Optimized for the latest web version of DeepSeek.
 * **I18n:** Automatically switches between English and Russian based on browser settings.
 
+## ⚖️ License
+
+This project is licensed under [CC NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+* Attribution Waived: Although the base license is "BY", I officially waive the requirement for attribution. You are not required to give credit to the author.
+* Non-Commercial (NC): You may not use this work for commercial purposes or for-profit activities.
+* ShareAlike (SA): Any derivative works must be distributed under the same license terms.
+* Open & Free: This software is provided for free and must remain open-source and free for everyone, forever.
+
 ---
 
 # На русском
@@ -90,8 +99,11 @@ When DeepSeek generates a response that fails internal safety filters (`CONTENT_
 * **Лимиты токенов:** Теневой контекст увеличивает размер промпта. Не забывайте нажимать «Очистить», когда старый контекст больше не нужен.
 * **История:** Полная поддержка восстановления истории (`/history_messages`) при перезагрузке страницы.
 
----
+## ⚖️ Лицензия
 
-**Author:** Claude Opus & CATLYS
+Этот проект распространяется под лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-**License:** MIT
+* **Отказ от указания авторства:** Хотя базовая лицензия — «BY» (с указанием авторства), я официально отказываюсь от этого требования. Указывать автора **необязательно**.
+* **Некоммерческое использование (NC):** Вы **не имеете права** использовать этот проект в коммерческих целях или для деятельности, направленной на получение прибыли.
+* **Сохранение условий (SA):** Любые производные работы должны распространяться на тех же условиях и под той же лицензией.
+* **Свобода и открытость:** Это программное обеспечение предоставляется бесплатно и должно оставаться открытым и бесплатным для всех навсегда.
