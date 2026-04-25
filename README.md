@@ -1,6 +1,6 @@
 # 🧠 DeepSeek Anti-recall
 
-[![Version](https://img.shields.io/badge/version-2026.04.25-orange.svg)](https://greasyfork.org/ru/scripts/)
+[![Version](https://img.shields.io/badge/version-2026.04.25-orange.svg)]((https://greasyfork.org/ru/scripts/575367-deepseek-anti-recall)
 [![Platform](https://img.shields.io/badge/platform-Tampermonkey-black.svg)](https://www.tampermonkey.net/)
 [![Tested On](https://img.shields.io/badge/tested--on-Chrome-blue.svg)](https://www.google.com/chrome/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
