@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-2026.04.25-orange.svg)](https://greasyfork.org/ru/scripts/575367-deepseek-anti-recall)
 [![Platform](https://img.shields.io/badge/platform-Tampermonkey-black.svg)](https://www.tampermonkey.net/)
 [![Tested On](https://img.shields.io/badge/tested--on-Chrome-blue.svg)](https://www.google.com/chrome/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 <img width="939" height="549" alt="blocked" src="https://github.com/user-attachments/assets/f08495c5-e7e8-4e51-b419-7c328628983b" />
 
