@@ -8,7 +8,7 @@
 <img width="939" height="549" alt="blocked" src="https://github.com/user-attachments/assets/f08495c5-e7e8-4e51-b419-7c328628983b" />
 
 > [!TIP]
-> **Russian description is available below.** > [Прокрутить к описанию на русском языке](#-deepseek-anti-recall-защита-от-цензуры-и-сохранение-контекста)
+> **Описание на русском доступно ниже.** > [Прокрутить к описанию на русском языке](#-deepseek-anti-recall-защита-от-цензуры-и-сохранение-контекста)
 
 ---
 
