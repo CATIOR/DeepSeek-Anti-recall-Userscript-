@@ -1,6 +1,6 @@
 # 🧠 DeepSeek Anti-recall
 
-[![Version](https://img.shields.io/badge/version-2026.04.25-orange.svg)](https://greasyfork.org/ru/scripts/575367-deepseek-anti-recall)
+[![Version](https://img.shields.io/badge/version-2026.04.25-orange.svg)](https://greasyfork.org/scripts/575367-deepseek-anti-recall)
 [![Platform](https://img.shields.io/badge/platform-Tampermonkey-black.svg)](https://www.tampermonkey.net/)
 [![Tested On](https://img.shields.io/badge/tested--on-Chrome-blue.svg)](https://www.google.com/chrome/)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -14,7 +14,8 @@
 
 > [!IMPORTANT]
 > This script requires a userscript manager such as **Tampermonkey** or **Violentmonkey**. 
-> It has been tested exclusively on **Google Chrome** and is provided **"as is"** without any warranties.
+> It has been tested exclusively on **Google Chrome** and is provided **"as is"** without any warranties. It is beta-version.
+> [You can install it from Greasyfork](https://greasyfork.org/scripts/575367-deepseek-anti-recall)
 
 ## 📖 Overview
 
@@ -76,6 +77,10 @@ This project is licensed under [CC NC-SA 4.0](https://creativecommons.org/licens
 # На русском
 
 ## 🧠 DeepSeek Anti-recall (Защита от цензуры и сохранение контекста)
+
+> [!IMPORTANT]
+> [Установить этот скрипт можно с Greasyfork](https://greasyfork.org/ru/scripts/575367-deepseek-anti-recall)
+> Скрипт был протестирован на Chrome с установленным Tampermonkey и находится в beta-версии.
 
 ### 📖 Описание
 Мощный скрипт для обхода цензуры в веб-версии DeepSeek. Перехватывает удаленные сообщения, сохраняет их локально и автоматически подмешивает в контекст ваших следующих запросов, чтобы нейросеть «помнила» заблокированные ответы.
